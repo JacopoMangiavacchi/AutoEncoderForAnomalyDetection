@@ -7,3 +7,8 @@ Very small, fully numeric dataset
 # Credit Card Froud dataset test
 As from this Kaggle dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+## No Categories
+
+## Embedded Categories for Hours of the day and Amount cluster
+
+
